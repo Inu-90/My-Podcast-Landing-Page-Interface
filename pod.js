@@ -1,5 +1,5 @@
 
-//Selecetors
+//Selectors
 let emailAddress = document.getElementById("email").value;
 let reqAccess = document.getElementById("access");
 let alert1 = document.querySelector(".alert1");
